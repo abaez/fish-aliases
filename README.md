@@ -21,11 +21,7 @@ alias errs  "rustc --explain"
 alias ls    "exa"
 alias j     "journalctl"
 alias s     "systemctl"
-```
 
-The rest of the aliases are built as functions for ease of use:
-
-``` fish
 dpms --description "turn on or off dpms mode"
 rr --desciription "rustup run shorthand with n=nightly, b=beta, s=stable"
 ```
