@@ -1,3 +1,3 @@
 function cd
-  command pushd $argv
+  pushd $argv
 end
