@@ -1,3 +1,3 @@
-function cd
+functions pcd
   pushd $argv
 end
