@@ -22,8 +22,6 @@ alias ls    "exa"
 alias cls   "command ls"
 alias j     "journalctl"
 alias s     "systemctl"
-alias cd    "pushd"
-alias ccd   "command cd"
 
 dpms --description "turn on or off dpms mode"
 rr --desciription "rustup run shorthand with n=nightly, b=beta, s=stable"
