@@ -19,6 +19,7 @@ The aliases are written in functions for autoloading but are similar to the foll
 ``` fish
 alias errs  "rustc --explain"
 alias ls    "exa"
+alias cls   "command ls"
 alias j     "journalctl"
 alias s     "systemctl"
 alias cd    "pushd"
